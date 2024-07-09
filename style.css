@@ -1,0 +1,54 @@
+form{
+    border-radius: 7px;
+}
+div{
+    margin: auto;
+    height: 550px;
+    width: 400px;
+    border: 2px solid black;
+    
+}
+#fn{
+    height: 30px ;
+    width: 170px;
+    
+}
+#sn{
+    height: 30px ;
+    width: 170px;
+}
+#md{
+    height: 30px;
+    width: 350px;
+    margin-top: 2px;
+}
+#do{
+    height: 30px;
+    width: 350px;
+    
+}
+#male{
+    height: 15px;
+    width: 20px;
+}
+#female{
+    height: 15px;
+    width: 20px;
+}
+#other{
+    height: 15px;
+    width: 20px;
+}
+#span1,
+#span2,
+#span3{
+    text-decoration: underline;
+    color: darkslateblue;
+}
+#sm{
+    height: 30px;
+    width: 60px;
+    background: rgb(44, 222, 16);
+    border: 5px solid rgb(44, 222, 16);
+    border-radius: 5px 5px 5px 5px;
+}
